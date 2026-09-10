@@ -4,3 +4,6 @@ Desktop.ini
 *.log
 .idea/
 .vscode/
+
+# Local image-source inventory; not part of the public website.
+assets/images/manifest.json
